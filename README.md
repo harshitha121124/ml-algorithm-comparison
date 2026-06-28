@@ -3,7 +3,14 @@
 An interactive Machine Learning benchmarking framework built using **Python, Scikit-learn, and Streamlit** to compare the performance of six supervised classification algorithms on a real-world Customer Churn dataset.
 
 ---
+## 🚀 Live Demo
 
+https://ml-algorithm-comparison-83motcllkkfydxdccsrbth.streamlit.app 
+
+---
+
+## 📸 Dashboard Preview
+![Dashboard](assets/dashboard_preview.png)
 ## 🚀 Features
 
 * Compare **6 Machine Learning algorithms** on the same dataset
